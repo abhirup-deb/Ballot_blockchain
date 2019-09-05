@@ -19,8 +19,8 @@ Built a voting ballot application with 4 NFL Teams such that there is a chairper
 
 ## Prerequisite
 1. NodeJs
-2. Metamask (3.14.1)
-3. Truffle (v4.0.4)
+2. Metamask
+3. Truffle
 
 ## Instruction for truffle testing
 1. Clone the repository to a local folder
